@@ -1,0 +1,100 @@
+/* --------------------CARD BOX------------------------ */
+p{
+    /* color: white; */
+    /* background-color: teal; */
+}
+h1{
+    color: white;
+    background-color: teal;
+}
+#head{
+    background-color: white;
+    margin-top: 10px;
+}
+strong{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 18px;
+
+}
+ #pre{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+ }
+ #body{
+    background-color: black;
+ }
+ #foot{
+     background-color: black;
+ }
+ button a{
+    
+     color: lightblue;
+ }
+  button a:hover{
+    text-decoration: none;
+ }
+
+
+ /* ------------CV-----------------------*/
+
+ h2{
+     color:green;
+ }
+ #mail{
+     text-decoration: none;
+     color: black;
+ }
+ #mail:hover{
+     color: white;
+     background-color: #586DB8;
+ }
+ #addr{
+     font-size: 20px;
+     font-family: 'Times New Roman', Times, serif
+ }
+ .fas fa-home{
+     background-color: aqua;
+ }
+ #inline{
+    display: inline;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#location{
+    text-decoration: none;
+    color:black;
+}
+#location:hover{
+    background-color:#586DB8;
+    color: whitesmoke
+}
+#ned{
+    text-decoration: none;
+    color:black;
+}
+#ned:hover{
+    background-color:#586DB8;
+    color: whitesmoke
+}
+#skill a{
+    list-style-type: circle;
+}
+#project li a{
+    list-style-type: square type upper-roman;
+}
+h3{
+    background-color: #4D7D92;
+}
+.table-bordered{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.table-bordered:hover{
+    
+}
+/* #project{
+    float: left;
+} */
